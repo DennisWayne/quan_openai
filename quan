@@ -1,0 +1,39 @@
+# NAME: PROXY
+# AUTHOR: blackmatrix7
+# REPO: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2024-02-03 01:49:21
+# HOST: 2
+# HOST-KEYWORD: 1
+# HOST-SUFFIX: 23
+# IP-ASN: 1
+# IP-CIDR: 2
+# TOTAL: 29
+HOST,browser-intake-datadoghq.com,PROXY
+HOST,static.cloudflareinsights.com,PROXY
+HOST-SUFFIX,ai.com,PROXY
+HOST-SUFFIX,algolia.net,PROXY
+HOST-SUFFIX,api.statsig.com,PROXY
+HOST-SUFFIX,auth0.com,PROXY
+HOST-SUFFIX,cdn.cloudflare.net,PROXY
+HOST-SUFFIX,challenges.cloudflare.com,PROXY
+HOST-SUFFIX,chatgpt.livekit.cloud,PROXY
+HOST-SUFFIX,client-api.arkoselabs.com,PROXY
+HOST-SUFFIX,events.statsigapi.net,PROXY
+HOST-SUFFIX,featuregates.org,PROXY
+HOST-SUFFIX,host.livekit.cloud,PROXY
+HOST-SUFFIX,identrust.com,PROXY
+HOST-SUFFIX,intercom.io,PROXY
+HOST-SUFFIX,intercomcdn.com,PROXY
+HOST-SUFFIX,launchdarkly.com,PROXY
+HOST-SUFFIX,oaistatic.com,PROXY
+HOST-SUFFIX,oaiusercontent.com,PROXY
+HOST-SUFFIX,observeit.net,PROXY
+HOST-SUFFIX,poe.com,PROXY
+HOST-SUFFIX,segment.io,PROXY
+HOST-SUFFIX,sentry.io,PROXY
+HOST-SUFFIX,stripe.com,PROXY
+HOST-SUFFIX,turn.livekit.cloud,PROXY
+HOST-KEYWORD,openai,PROXY
+IP-CIDR,24.199.123.28/32,PROXY
+IP-CIDR,64.23.132.171/32,PROXY
+IP-ASN,20473,PROXY
